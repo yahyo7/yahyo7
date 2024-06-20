@@ -43,14 +43,20 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 My GitHub Journey 
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyo7&show_icons=true&locale=en&layout=compact" alt="yahyo7" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyo7&" alt="yahyo7" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyo7&show_icons=true&locale=en&layout=compact&theme=dark" alt="yahyo7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yahyo7&show_icons=true&locale=en&theme=dark" alt="yahyo7" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyo7&theme=dark" alt="yahyo7" />
 </div>
-<br/>
 
-### 📬 Let's Chat!
+---
 
-<p>Feel free to reach out if you have any questions, want to collaborate, or just want to say hi!  📧  [ahmadalliev.sd@gmail.com](mailto:ahmadalliev.sd@gmail.com)</p>
+### 📫 Get in Touch!
+
+<p align="center">
+Let's connect and chat about code, creativity, or anything that sparks our curiosity! 
+<br />
+<a href="mailto:ahmadalliev.sd@gmail.com">📧 Drop me an email!</a>
+</p>
