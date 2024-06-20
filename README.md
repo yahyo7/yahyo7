@@ -43,11 +43,33 @@
 
 ### 📊 My GitHub Journey 
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yahyo7&show_icons=true&locale=en&theme=dark" alt="yahyo7" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyo7&theme=dark" alt="yahyo7" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyo7&show_icons=true&locale=en&layout=compact&theme=dark" alt="yahyo7" />
+<div class="stats-container">
+  <img class="stat-image" src="https://github-readme-stats.vercel.app/api?username=yahyo7&show_icons=true&locale=en&theme=dark" alt="yahyo7" />
+  <img class="stat-image" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyo7&theme=dark" alt="yahyo7" />
+  <img class="stat-image" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyo7&show_icons=true&locale=en&layout=compact&theme=dark" alt="yahyo7" />
 </div>
+
+<style>
+.stats-container {
+  display: flex;
+  flex-wrap: wrap; /* Allow images to wrap to the next line on smaller screens */
+  justify-content: center; /* Center the images horizontally */
+  gap: 10px; /* Add some spacing between the images */
+}
+
+.stat-image {
+  max-width: 100%; /* Ensure images don't overflow their container */
+  height: auto;  /* Maintain aspect ratio when resizing */
+}
+
+/* Optional: Add media queries for specific breakpoints */
+@media (max-width: 768px) {
+  .stat-image {
+    width: 100%; /* Make images take full width on smaller screens */
+  }
+}
+</style>
+
 
 ---
 
