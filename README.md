@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/yahyo7/yahyo7/blob/main/banner.jpg?raw=true" alt="Yakhyokhon Banner" width="100%">
-
 <h1>🚀 Hey, I'm Yakhyokhon (Seven)!</h1>
 
 <p>✨ **Self-Taught Frontend Developer** with a passion for building beautiful and intuitive web experiences.</p>
