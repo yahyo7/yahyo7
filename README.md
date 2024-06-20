@@ -8,7 +8,7 @@
 
 <a href="https://medium.com/@ahmadaliev.sd">📝 **Medium**</a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yakhyokhon">💼 **LinkedIn**</a> &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/ayakhyokhon">🐦 **Twitter**</a> &nbsp;&nbsp;&nbsp;
+<a href="https://x.com/ayakhyokhon">🐦 **X**</a> &nbsp;&nbsp;&nbsp;
 
 </div>
 
@@ -50,6 +50,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyo7&" alt="yahyo7" />
 </div>
 <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyo7&show_icons=true&locale=en&layout=compact" alt="yahyo7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahyo7&show_icons=true&locale=en" alt="yahyo7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyo7&" alt="yahyo7" /></p>
 
 ### 📬 Let's Chat!
 
