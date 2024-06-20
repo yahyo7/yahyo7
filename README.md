@@ -53,4 +53,4 @@
 
 ### 📬 Let's Chat!
 
-Feel free to reach out if you have any questions, want to collaborate, or just want to say hi!  📧  [ahmadalliev.sd@gmail.com](mailto:ahmadalliev.sd@gmail.com)
+<p>Feel free to reach out if you have any questions, want to collaborate, or just want to say hi!  📧  [ahmadalliev.sd@gmail.com](mailto:ahmadalliev.sd@gmail.com)</p>
