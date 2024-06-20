@@ -46,8 +46,8 @@
 ### 📊 My GitHub Journey 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yahyo7&show_icons=true&locale=en&theme=dark" alt="yahyo7" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyo7&theme=dark" alt="yahyo7" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yahyo7&show_icons=true&locale=en&theme=dark" alt="yahyo7" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyo7&theme=dark" alt="yahyo7" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyo7&show_icons=true&locale=en&layout=compact&theme=dark" alt="yahyo7" />
 </div>
 
