@@ -2,7 +2,7 @@
 
 <h1>🚀 Hey, I'm Yakhyokhon (Seven)!</h1>
 
-<p>✨ **Self-Taught Frontend Developer** with a passion for building beautiful and intuitive web experiences.</p>
+<p>✨ **Self-Taught Frontend Developer** passionate about building beautiful and intuitive web experiences.</p>
 
 <a href="https://medium.com/@ahmadaliev.sd">📝 **Medium**</a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yakhyokhon">💼 **LinkedIn**</a> &nbsp;&nbsp;&nbsp;
@@ -49,6 +49,7 @@
   <img class="stat-image" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyo7&show_icons=true&locale=en&layout=compact&theme=dark" alt="yahyo7" />
 </div>
 
+<!--
 <style>
 .stats-container {
   display: flex;
@@ -68,7 +69,7 @@
     width: 100%; /* Make images take full width on smaller screens */
   }
 }
-</style>
+</style> -->
 
 
 ---
