@@ -1,53 +1,58 @@
-<div align="center">
+# Hi there, I'm YakhyoKhon(Seven)! 👋
 
-<h1>🚀 Hey, I'm Yakhyokhon (Seven)!</h1>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakhyokhon/)
 
-<p>✨ **Self-Taught Frontend Developer** passionate about building beautiful and intuitive web experiences.</p>
+## 🚀 About Me
+I am a passionate software developer with a keen interest in building impactful solutions using modern technologies. I love exploring new tech stacks and continuously improving my skills.
 
-<a href="https://medium.com/@ahmadaliev.sd">📝 **Medium**</a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yakhyokhon">💼 **LinkedIn**</a> &nbsp;&nbsp;&nbsp;
-<a href="https://x.com/ayakhyokhon">🐦 **X**</a> &nbsp;&nbsp;&nbsp;
+## 🛠️ Tech Stack
 
-</div>
+- **Languages**: <br/> 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
----
+- **Frameworks and Libraries**:<br/>
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 👨‍💻 About Me
+- **Databases**:<br/>
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- Currently diving into **React.js** and **TypeScript**, eager to master the art of frontend development.
-- Crafting clean and efficient code that makes users smile is my jam.
-- When I'm not coding, you'll find me exploring new technologies, brewing coffee, or geeking out over the latest sci-fi.
+- **Tools and Platforms**:<br/>
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 🎯 Currently Focused On
+- **Architectures and Paradigms**:<br/>
+  ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microservices&logoColor=white)
+  ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+  ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=cloud&logoColor=white)
 
-- **Building** awesome projects that solve real-world problems.
-- **Learning** from the best in the industry and constantly leveling up my skills.
-- **Connecting** with like-minded developers and collaborating on exciting ventures.
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-</div>
-
-<br/>
-
-### 📊 My GitHub Journey 
+## 📈 GitHub Stats
 
 <div class="stats-container">
   <img class="stat-image" src="https://github-readme-stats.vercel.app/api?username=yahyo7&show_icons=true&locale=en&theme=dark" alt="yahyo7" />
   <img class="stat-image" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyo7&theme=dark" alt="yahyo7" />
   <img class="stat-image" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyo7&show_icons=true&locale=en&layout=compact&theme=dark" alt="yahyo7" />
 </div>
+
+## 🔗 Let's Connect
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yakhyokhon/).
+
+---
+
+> "The best way to predict the future is to invent it." – Alan Kay
 
 <!--
 <style>
@@ -72,12 +77,3 @@
 </style> -->
 
 
----
-
-### 📫 Get in Touch!
-
-<p align="center">
-Let's connect and chat about code, creativity, or anything that sparks our curiosity! 
-<br />
-<a href="mailto:ahmadalliev.sd@gmail.com">📧 Drop me an email!</a>
-</p>
