@@ -41,7 +41,6 @@ I am a passionate software developer with a keen interest in building impactful 
 ## 📈 GitHub Stats
 
 <div class="stats-container">
-  <img class="stat-image" src="https://github-readme-stats.vercel.app/api?username=yahyo7&show_icons=true&locale=en&theme=dark" alt="yahyo7" />
   <img class="stat-image" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyo7&theme=dark" alt="yahyo7" />
   <img class="stat-image" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyo7&show_icons=true&locale=en&layout=compact&theme=dark" alt="yahyo7" />
 </div>
