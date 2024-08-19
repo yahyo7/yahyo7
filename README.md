@@ -2,8 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakhyokhon/)
 
+
 ## 🚀 About Me
-I am a passionate software developer with a keen interest in building impactful solutions using modern technologies. I love exploring new tech stacks and continuously improving my skills.
+I am a passionate software developer with a keen interest in building impactful solutions using modern technologies. I love exploring new tech stacks and continuously improving my skills. [Portfolio Website](https://www.sevendev.co)
 
 ## 🛠️ Tech Stack
 
