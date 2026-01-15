@@ -32,7 +32,7 @@ PostgreSQL, Redis, Docker, Linux, VPS, AWS, Git/GitLab
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahyo7&show_icons=true)
 
